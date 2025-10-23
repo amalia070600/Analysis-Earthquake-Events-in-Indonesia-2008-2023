@@ -1,4 +1,4 @@
-# Analysis-Earthquake-Events-in-Indonesia-2008-2023-
+# Analysis-Earthquake-Events-in-Indonesia-2008-2023
 This project aims to analyze earthquake activity across Indonesia using data from Kaggle. Through Exploratory Data Analysis (EDA), I explore patterns of magnitude, depth, and frequency to better understand Indonesia’s earthquake characteristics.
 
 <h2>Project Goals</h2>
