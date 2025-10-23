@@ -25,6 +25,6 @@ This dataset contains records of earthquake events in Indonesia from 2008 to 202
   <li>lat : Latitude of the earthquake epicenter (in degrees), ranging from 6°N to 11°S</li>
   <li>lon : Longitude of the earthquake epicenter (in degrees), ranging from 94°E to 142°E</li>
   <li>depth : Depth of the event (in kilometers)</li>
-  <li>mag : Magnitude of the event, ranging from 1 to 9.5</li>
+  <li>mag : Magnitude of the event, ranging from 1 to 7.9</li>
   <li>remark : Flinn-Engdahl region of the event</li>
 </ul>
