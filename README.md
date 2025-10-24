@@ -28,3 +28,5 @@ This dataset contains records of earthquake events in Indonesia from 2008 to 202
   <li>mag : Magnitude of the event, ranging from 1 to 7.9</li>
   <li>remark : Flinn-Engdahl region of the event</li>
 </ul>
+
+If the link for the dataset does not work properly, please copy paste the following link to access the dataset: https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia
